@@ -1,0 +1,9 @@
+[submodule "health-check-config"]
+	path = health-check-config
+	url = git@github.com:spring-cloud-config-server/health-check-config.git
+[submodule "demo-app-common-config"]
+	path = demo-app-common-config
+	url = git@github.com:spring-cloud-config-server/demo-app-common-config.git
+[submodule "demo-app-config"]
+	path = demo-app-config
+	url = git@github.com:spring-cloud-config-server/demo-app-config.git
